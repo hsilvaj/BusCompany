@@ -1,0 +1,1182 @@
+[
+  {
+    "id": 1,
+    "operator": "A1A Travel",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "birkenhead.cylex-uk.co.uk",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 2,
+    "operator": "Aircoach",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 3,
+    "operator": "Alder Valley Travel",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 4,
+    "operator": "Ashall's Coaches",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 5,
+    "operator": "B&D Coaches",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 6,
+    "operator": "Bebb Travel",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 7,
+    "operator": "Bellairs and Dootson Coaches",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 8,
+    "operator": "Bluebird Bus and Coach",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "everything.explained.today",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 9,
+    "operator": "Bowers Coaches",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 10,
+    "operator": "Brijan Tours",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 11,
+    "operator": "Bullocks Coaches",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "dailywire.com",
+    "logo_url": "https://img.logo.dev/dailywire.com?token=pk_dp_6tcAGRxOPnY1OT58pxg",
+    "logo_file": "dailywire.com.png"
+  },
+  {
+    "id": 12,
+    "operator": "Busways Travel Services",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 13,
+    "operator": "Carters Coach Services",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 14,
+    "operator": "Chase Coaches",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "theinfolist.com",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 15,
+    "operator": "Citibus Tours",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 16,
+    "operator": "Courtney Coaches",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "para.it",
+    "logo_url": "https://img.logo.dev/paraito.ca?token=pk_dp_6tcAGRxOPnY1OT58pxg",
+    "logo_file": "para.it.png"
+  },
+  {
+    "id": 17,
+    "operator": "Coach Hire Direct",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 18,
+    "operator": "Countryliner Coaches",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 19,
+    "operator": "County Bus & Coach",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 20,
+    "operator": "Countywide Travel",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "countywidetoptravel.co.uk",
+    "logo_url": "https://img.logo.dev/countywidetoptravel.co.uk?token=pk_dp_6tcAGRxOPnY1OT58pxg",
+    "logo_file": "countywidetoptravel.co.uk.png"
+  },
+  {
+    "id": 21,
+    "operator": "Damory Coaches",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 22,
+    "operator": "Duke's Travel",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "duketravel.com",
+    "logo_url": "https://img.logo.dev/duketravel.com?token=pk_dp_6tcAGRxOPnY1OT58pxg",
+    "logo_file": "duketravel.com.png"
+  },
+  {
+    "id": 23,
+    "operator": "Edwards Coaches",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 24,
+    "operator": "Epsom Coaches",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "epson.com.br",
+    "logo_url": "https://img.logo.dev/epson.com.br?token=pk_dp_6tcAGRxOPnY1OT58pxg",
+    "logo_file": "epson.com.br.png"
+  },
+  {
+    "id": 25,
+    "operator": "First Stop Travel",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 26,
+    "operator": "GHA Coaches",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 27,
+    "operator": "Green Line Coaches",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "websites.milonic.com",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 28,
+    "operator": "Hardings coach company",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 29,
+    "operator": "Jim Stones Coaches",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 30,
+    "operator": "JP Travel",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 31,
+    "operator": "Kent Top Travel",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 32,
+    "operator": "King Travel",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 33,
+    "operator": "Lloyds Coaches",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 34,
+    "operator": "London Traveller",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 35,
+    "operator": "Lucketts Travel",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "nba.com",
+    "logo_url": "https://img.logo.dev/nba.com?token=pk_dp_6tcAGRxOPnY1OT58pxg",
+    "logo_file": "nba.com.png"
+  },
+  {
+    "id": 36,
+    "operator": "M & M Coaches",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 37,
+    "operator": "Mayne Coaches",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 38,
+    "operator": "Maytree Travel",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "nationalexpress.com",
+    "logo_url": "https://img.logo.dev/nationalexpress.com?token=pk_dp_6tcAGRxOPnY1OT58pxg",
+    "logo_file": "nationalexpress.com.png"
+  },
+  {
+    "id": 39,
+    "operator": "Metro Coastlines",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "INTERCITY",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 40,
+    "operator": "Moss Motor Tours",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 41,
+    "operator": "National Express Coaches",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "timetables.nationalexpress.com",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 42,
+    "operator": "National Express Coventry",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "INTERCITY",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 43,
+    "operator": "National Express Dot2Dot",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "INTERCITY",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 44,
+    "operator": "National Express Dundee",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "INTERCITY",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 45,
+    "operator": "National Express Group",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "INTERCITY",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 46,
+    "operator": "National Express Hotel Hoppa",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "INTERCITY",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 47,
+    "operator": "National Express West Midlands",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "INTERCITY",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 48,
+    "operator": "New Enterprise Coaches",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 49,
+    "operator": "New Forest Tour",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 50,
+    "operator": "Nottingham Express Transit",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "INTERCITY",
+    "domain": "nctx.co.uk",
+    "logo_url": "https://img.logo.dev/nctx.co.uk?token=pk_dp_6tcAGRxOPnY1OT58pxg",
+    "logo_file": "nctx.co.uk.png"
+  },
+  {
+    "id": 51,
+    "operator": "Pete's Travel",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "nationalexpress.com",
+    "logo_url": "https://img.logo.dev/nationalexpress.com?token=pk_dp_6tcAGRxOPnY1OT58pxg",
+    "logo_file": "nationalexpress.com.png"
+  },
+  {
+    "id": 52,
+    "operator": "Premiere Travel",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 53,
+    "operator": "Renown Coaches",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "renowngroup.co.uk",
+    "logo_url": "https://img.logo.dev/renown-group.co.uk?token=pk_dp_6tcAGRxOPnY1OT58pxg",
+    "logo_file": "renowngroup.co.uk.png"
+  },
+  {
+    "id": 54,
+    "operator": "Royal Blue Coach Services",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 55,
+    "operator": "Safeguard Coaches",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 56,
+    "operator": "Soames Coaches",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 57,
+    "operator": "South Gloucestershire Bus & Coach",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 58,
+    "operator": "South Lancs Travel",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 59,
+    "operator": "South West Coaches",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 60,
+    "operator": "Sovereign Bus & Coach",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 61,
+    "operator": "Stagecoach Cambridgeshire",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 62,
+    "operator": "Stagecoach East Midlands",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 63,
+    "operator": "Stagecoach East Scotland",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 64,
+    "operator": "Stagecoach Express",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 65,
+    "operator": "Stagecoach Goldline",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 66,
+    "operator": "Stagecoach Grimsby-Cleethorpes",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 67,
+    "operator": "Stagecoach in Bedford",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "stagecoachbus.com",
+    "logo_url": "https://img.logo.dev/stagecoachbus.com?token=pk_dp_6tcAGRxOPnY1OT58pxg",
+    "logo_file": "stagecoachbus.com.png"
+  },
+  {
+    "id": 68,
+    "operator": "Stagecoach in Cambridge",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 69,
+    "operator": "Stagecoach in Cheltenham",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "stagecoachbus.com",
+    "logo_url": "https://img.logo.dev/stagecoachbus.com?token=pk_dp_6tcAGRxOPnY1OT58pxg",
+    "logo_file": "stagecoachbus.com.png"
+  },
+  {
+    "id": 70,
+    "operator": "Stagecoach in Chesterfield",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 71,
+    "operator": "Stagecoach in Eastbourne",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 72,
+    "operator": "Stagecoach in Devon",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 73,
+    "operator": "Stagecoach in Hampshire",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "stagecoachbus.com",
+    "logo_url": "https://img.logo.dev/stagecoachbus.com?token=pk_dp_6tcAGRxOPnY1OT58pxg",
+    "logo_file": "stagecoachbus.com.png"
+  },
+  {
+    "id": 74,
+    "operator": "Stagecoach in Hants & Surrey",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 75,
+    "operator": "Stagecoach in Hastings",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "stagecoachbus.com",
+    "logo_url": "https://img.logo.dev/stagecoachbus.com?token=pk_dp_6tcAGRxOPnY1OT58pxg",
+    "logo_file": "stagecoachbus.com.png"
+  },
+  {
+    "id": 76,
+    "operator": "Stagecoach in Hull",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 77,
+    "operator": "Stagecoach in Lincolnshire",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "stagecoachbus.com",
+    "logo_url": "https://img.logo.dev/stagecoachbus.com?token=pk_dp_6tcAGRxOPnY1OT58pxg",
+    "logo_file": "stagecoachbus.com.png"
+  },
+  {
+    "id": 78,
+    "operator": "Stagecoach in Mansfield",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "stagecoachbus.com",
+    "logo_url": "https://img.logo.dev/stagecoachbus.com?token=pk_dp_6tcAGRxOPnY1OT58pxg",
+    "logo_file": "stagecoachbus.com.png"
+  },
+  {
+    "id": 79,
+    "operator": "Stagecoach in Newcastle",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 80,
+    "operator": "Stagecoach in Peterborough",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 81,
+    "operator": "Stagecoach in Portsmouth",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 82,
+    "operator": "Stagecoach in Preston",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 83,
+    "operator": "Stagecoach in South Wales",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "stagecoachbus.com",
+    "logo_url": "https://img.logo.dev/stagecoachbus.com?token=pk_dp_6tcAGRxOPnY1OT58pxg",
+    "logo_file": "stagecoachbus.com.png"
+  },
+  {
+    "id": 84,
+    "operator": "Stagecoach in Swindon",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 85,
+    "operator": "Stagecoach in The Fens",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 86,
+    "operator": "Stagecoach in the South Downs",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 87,
+    "operator": "Stagecoach in Warwickshire",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 88,
+    "operator": "Stagecoach London",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "stagecoachbus.com",
+    "logo_url": "https://img.logo.dev/stagecoachbus.com?token=pk_dp_6tcAGRxOPnY1OT58pxg",
+    "logo_file": "stagecoachbus.com.png"
+  },
+  {
+    "id": 89,
+    "operator": "Stagecoach Manchester",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "stagecoachbus.com",
+    "logo_url": "https://img.logo.dev/stagecoachbus.com?token=pk_dp_6tcAGRxOPnY1OT58pxg",
+    "logo_file": "stagecoachbus.com.png"
+  },
+  {
+    "id": 90,
+    "operator": "Stagecoach Merseyside",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 91,
+    "operator": "Stagecoach Midland Red",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "stagecoachbus.com",
+    "logo_url": "https://img.logo.dev/stagecoachbus.com?token=pk_dp_6tcAGRxOPnY1OT58pxg",
+    "logo_file": "stagecoachbus.com.png"
+  },
+  {
+    "id": 92,
+    "operator": "Stagecoach North East",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 93,
+    "operator": "Stagecoach North West",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 94,
+    "operator": "Stagecoach Oxfordshire",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "stagecoachbus.com",
+    "logo_url": "https://img.logo.dev/stagecoachbus.com?token=pk_dp_6tcAGRxOPnY1OT58pxg",
+    "logo_file": "stagecoachbus.com.png"
+  },
+  {
+    "id": 95,
+    "operator": "Stagecoach Sheffield",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 96,
+    "operator": "Stagecoach South",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 97,
+    "operator": "Stagecoach South East",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 98,
+    "operator": "Stagecoach Strathtay",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 99,
+    "operator": "Stagecoach West",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 100,
+    "operator": "Stagecoach West Scotland",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "stagecoachbus.com",
+    "logo_url": "https://img.logo.dev/stagecoachbus.com?token=pk_dp_6tcAGRxOPnY1OT58pxg",
+    "logo_file": "stagecoachbus.com.png"
+  },
+  {
+    "id": 101,
+    "operator": "Stagecoach Yorkshire",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "stagecoachbus.com",
+    "logo_url": "https://img.logo.dev/stagecoachbus.com?token=pk_dp_6tcAGRxOPnY1OT58pxg",
+    "logo_file": "stagecoachbus.com.png"
+  },
+  {
+    "id": 102,
+    "operator": "Stansted Aircoach",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 103,
+    "operator": "Stotts Tours",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "transfermarkt.es",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 104,
+    "operator": "Sunray Travel",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "alchetron.com",
+    "logo_url": "https://img.logo.dev/alchetron.com?token=pk_dp_6tcAGRxOPnY1OT58pxg",
+    "logo_file": "alchetron.com.png"
+  },
+  {
+    "id": 105,
+    "operator": "Tanat Valley Coaches",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 106,
+    "operator": "Thames Travel",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "britannica.com",
+    "logo_url": "https://img.logo.dev/britannica.com?token=pk_dp_6tcAGRxOPnY1OT58pxg",
+    "logo_file": "britannica.com.png"
+  },
+  {
+    "id": 107,
+    "operator": "The Original Tour",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 108,
+    "operator": "Timebus Travel",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 109,
+    "operator": "Tourist Group",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 110,
+    "operator": "Travel de Courcey",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 111,
+    "operator": "Travel London",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 112,
+    "operator": "Travel Merry Hill",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 113,
+    "operator": "Travel Surrey",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 114,
+    "operator": "Travel Your Bus",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 115,
+    "operator": "Wesley Coaches",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 116,
+    "operator": "Woottens Luxury Travel",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "wise.com",
+    "logo_url": "https://img.logo.dev/wise.com?token=pk_dp_6tcAGRxOPnY1OT58pxg",
+    "logo_file": "wise.com.png"
+  },
+  {
+    "id": 117,
+    "operator": "Worthing Coaches",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  },
+  {
+    "id": 118,
+    "operator": "York Aircoach",
+    "country": "United Kingdom",
+    "state": "",
+    "company_type": "TOURISM",
+    "domain": "",
+    "logo_url": "",
+    "logo_file": ""
+  }
+]

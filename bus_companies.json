@@ -1,0 +1,2116 @@
+[
+  {
+    "id": 1,
+    "operator": "Auto Viação 1001",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "1001.webp"
+  },
+  {
+    "id": 2,
+    "operator": "Açailândia",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "acailandia.webp"
+  },
+  {
+    "id": 3,
+    "operator": "Águia Branca",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "aguia-branca.webp"
+  },
+  {
+    "id": 4,
+    "operator": "Aguia Flex",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "aguia-flex.webp"
+  },
+  {
+    "id": 5,
+    "operator": "Aguiar Locação e Turismo",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "aguiar-turismo.webp"
+  },
+  {
+    "id": 6,
+    "operator": "Airport Bus Service",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "airport-bus-service.webp"
+  },
+  {
+    "id": 7,
+    "operator": "Viação Alvorada",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "alvorada.webp"
+  },
+  {
+    "id": 8,
+    "operator": "AM Turismo",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "am-turismo.webp"
+  },
+  {
+    "id": 9,
+    "operator": "Amarelinho",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "amarelinho.webp"
+  },
+  {
+    "id": 10,
+    "operator": "Amatur Turismo",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "amatur.webp"
+  },
+  {
+    "id": 11,
+    "operator": "Viação Anapolina",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "anapolina.webp"
+  },
+  {
+    "id": 12,
+    "operator": "Andorinha",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "andorinha.webp"
+  },
+  {
+    "id": 13,
+    "operator": "Viação Araguarina",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "araguarina.webp"
+  },
+  {
+    "id": 14,
+    "operator": "Arte Transportes",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "arte-transportes.webp"
+  },
+  {
+    "id": 15,
+    "operator": "Asa Verde",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "asa-verde.webp"
+  },
+  {
+    "id": 16,
+    "operator": "Asatur Turismo",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "asatur.webp"
+  },
+  {
+    "id": 17,
+    "operator": "Viação Atibaia",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "atibaia.webp"
+  },
+  {
+    "id": 18,
+    "operator": "Atlântico Transportes",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "atlantico-transportes.webp"
+  },
+  {
+    "id": 19,
+    "operator": "Autoviação Progresso",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "autoviacao-progresso.webp"
+  },
+  {
+    "id": 20,
+    "operator": "Bassamar",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "bassamar.webp"
+  },
+  {
+    "id": 21,
+    "operator": "Bella Vita Transportes",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "bella-vita.webp"
+  },
+  {
+    "id": 22,
+    "operator": "Bento Transportes",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "bento-transportes.webp"
+  },
+  {
+    "id": 23,
+    "operator": "Boa Esperança",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "boa-esperanca.webp"
+  },
+  {
+    "id": 24,
+    "operator": "BPA Transportes",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "bpa-transportes.webp"
+  },
+  {
+    "id": 25,
+    "operator": "Viação Bragança",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "braganca.webp"
+  },
+  {
+    "id": 26,
+    "operator": "Brantur",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "brantur.webp"
+  },
+  {
+    "id": 27,
+    "operator": "Brasil Bus",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "brasil-bus.webp"
+  },
+  {
+    "id": 28,
+    "operator": "Brasil Sul",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "brasil-sul.webp"
+  },
+  {
+    "id": 29,
+    "operator": "Brasileiro",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "brasileiro.webp"
+  },
+  {
+    "id": 30,
+    "operator": "Breda Transportes e Serviços",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "breda.webp"
+  },
+  {
+    "id": 31,
+    "operator": "Brisa",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "brisa.webp"
+  },
+  {
+    "id": 32,
+    "operator": "Bus Viagens",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "bus-viagens.webp"
+  },
+  {
+    "id": 33,
+    "operator": "Buser",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "buser.webp"
+  },
+  {
+    "id": 34,
+    "operator": "BusX",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "busx.webp"
+  },
+  {
+    "id": 35,
+    "operator": "Caburaí Transportes",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "caburai.webp"
+  },
+  {
+    "id": 36,
+    "operator": "Auto Viação Cambuí",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "cambui.webp"
+  },
+  {
+    "id": 37,
+    "operator": "Viação Camurujipe",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "camurujipe.webp"
+  },
+  {
+    "id": 38,
+    "operator": "Cantelle",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "cantelle.webp"
+  },
+  {
+    "id": 39,
+    "operator": "Viação Caruaruense",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "caruaruense.webp"
+  },
+  {
+    "id": 40,
+    "operator": "Catarina",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "catarina.webp"
+  },
+  {
+    "id": 41,
+    "operator": "Catarinense",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "catarinense.webp"
+  },
+  {
+    "id": 42,
+    "operator": "Catedral Turismo",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "catedral.webp"
+  },
+  {
+    "id": 43,
+    "operator": "Cattani Sul",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "cattani-sul.webp"
+  },
+  {
+    "id": 44,
+    "operator": "Cetro",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "cetro.webp"
+  },
+  {
+    "id": 45,
+    "operator": "Atual",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "cia-atual.webp"
+  },
+  {
+    "id": 46,
+    "operator": "Cidade do Aço",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "cidade-do-aco.webp"
+  },
+  {
+    "id": 47,
+    "operator": "Viação Cidade Sol",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "cidade-sol.webp"
+  },
+  {
+    "id": 48,
+    "operator": "Cisne Branco",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "cisne-branco.webp"
+  },
+  {
+    "id": 49,
+    "operator": "Citral",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "citral.webp"
+  },
+  {
+    "id": 50,
+    "operator": "Cometa",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "cometa.webp"
+  },
+  {
+    "id": 51,
+    "operator": "Consórcio Metropolitano Transporte - CMT",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "consorcio-metropolitano.webp"
+  },
+  {
+    "id": 52,
+    "operator": "Viação Continental",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "continental.webp"
+  },
+  {
+    "id": 53,
+    "operator": "Costa Verde",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "costa-verde.webp"
+  },
+  {
+    "id": 54,
+    "operator": "CrisBell",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "crisbell.webp"
+  },
+  {
+    "id": 55,
+    "operator": "Crucero Del Norte",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "crucero-del-norte.webp"
+  },
+  {
+    "id": 56,
+    "operator": "Viação Cruzeiro",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "cruzeiro.webp"
+  },
+  {
+    "id": 57,
+    "operator": "Viação Cruzeiro do Sul",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "cruzeiro-do-sul.webp"
+  },
+  {
+    "id": 58,
+    "operator": "Danubio Azul",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "danubio-azul.webp"
+  },
+  {
+    "id": 59,
+    "operator": "Edson Turismo",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "edson-turismo.webp"
+  },
+  {
+    "id": 60,
+    "operator": "Empresa General Artigas",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "ega.webp"
+  },
+  {
+    "id": 61,
+    "operator": "Embarca",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "embarca.webp"
+  },
+  {
+    "id": 62,
+    "operator": "Empresa Cruz",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "empresa-cruz.webp"
+  },
+  {
+    "id": 63,
+    "operator": "Empresa Moreira",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "empresa-moreira.webp"
+  },
+  {
+    "id": 64,
+    "operator": "Empresa Santana",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "empresa-santana.webp"
+  },
+  {
+    "id": 65,
+    "operator": "Empresa São Cristóvão",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "empresa-sao-cristovao.webp"
+  },
+  {
+    "id": 66,
+    "operator": "Empresa União",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "empresa-uniao.webp"
+  },
+  {
+    "id": 67,
+    "operator": "Empresa Unida",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "empresa-unida.webp"
+  },
+  {
+    "id": 68,
+    "operator": "Emtram",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "emtram.webp"
+  },
+  {
+    "id": 69,
+    "operator": "Esmeralda",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "esmeralda.webp"
+  },
+  {
+    "id": 70,
+    "operator": "Viação Estrela",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "estrela.webp"
+  },
+  {
+    "id": 71,
+    "operator": "Eucatur",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "eucatur.webp"
+  },
+  {
+    "id": 72,
+    "operator": "Evolução Transportes",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "evolucao-transportes.webp"
+  },
+  {
+    "id": 73,
+    "operator": "Expressa Transportes",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "expressa-transportes.webp"
+  },
+  {
+    "id": 74,
+    "operator": "Expresso Adamantina",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "expresso-adamantina.webp"
+  },
+  {
+    "id": 75,
+    "operator": "Expresso Araguari",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "expresso-araguari.webp"
+  },
+  {
+    "id": 76,
+    "operator": "Expresso Auge",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "expresso-auge.webp"
+  },
+  {
+    "id": 77,
+    "operator": "Expresso Azul",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "expresso-azul.webp"
+  },
+  {
+    "id": 78,
+    "operator": "Expresso Brasileiro",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "expresso-brasileiro.webp"
+  },
+  {
+    "id": 79,
+    "operator": "Expresso Brasília",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "expresso-brasilia.webp"
+  },
+  {
+    "id": 80,
+    "operator": "Expresso Capital",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "expresso-capital.webp"
+  },
+  {
+    "id": 81,
+    "operator": "Expresso Caxiense",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "expresso-caxiense.webp"
+  },
+  {
+    "id": 82,
+    "operator": "Expresso Concorrência",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "expresso-concorrencia.webp"
+  },
+  {
+    "id": 83,
+    "operator": "Expresso Cristália",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "expresso-cristalia.webp"
+  },
+  {
+    "id": 84,
+    "operator": "Expresso de Luxo",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "expresso-de-luxo.webp"
+  },
+  {
+    "id": 85,
+    "operator": "Expresso de Prata",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "expresso-de-prata.webp"
+  },
+  {
+    "id": 86,
+    "operator": "Expresso do Sul",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "expresso-do-sul.webp"
+  },
+  {
+    "id": 87,
+    "operator": "Expresso Embaixador",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "expresso-embaixador.webp"
+  },
+  {
+    "id": 88,
+    "operator": "Expresso Espírito Santo",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "expresso-espirito-santo.webp"
+  },
+  {
+    "id": 89,
+    "operator": "Expresso Floriano",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "expresso-floriano.webp"
+  },
+  {
+    "id": 90,
+    "operator": "Expresso Frederes",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "expresso-frederes.webp"
+  },
+  {
+    "id": 91,
+    "operator": "Expresso Gardenia",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "expresso-gardenia.webp"
+  },
+  {
+    "id": 92,
+    "operator": "Expresso Guanabara",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "expresso-guanabara.webp"
+  },
+  {
+    "id": 93,
+    "operator": "Expresso Itamarati",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "expresso-itamarati.webp"
+  },
+  {
+    "id": 94,
+    "operator": "Expresso JK",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "expresso-jk.webp"
+  },
+  {
+    "id": 95,
+    "operator": "Expresso Jóia",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "expresso-joia.webp"
+  },
+  {
+    "id": 96,
+    "operator": "Expresso Kaiowa",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "expresso-kaiowa.webp"
+  },
+  {
+    "id": 97,
+    "operator": "Expresso Luxo",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "expresso-luxo.webp"
+  },
+  {
+    "id": 98,
+    "operator": "Expresso Maia",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "expresso-maia.webp"
+  },
+  {
+    "id": 99,
+    "operator": "Expresso Maringá",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "expresso-maringa.webp"
+  },
+  {
+    "id": 100,
+    "operator": "Expresso Marly",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "expresso-marly.webp"
+  },
+  {
+    "id": 101,
+    "operator": "Expresso Mato Grosso do Sul",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "expresso-mato-grosso-do-sul.webp"
+  },
+  {
+    "id": 102,
+    "operator": "Expresso Metrópolis",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "expresso-metropolis.webp"
+  },
+  {
+    "id": 103,
+    "operator": "Expresso Nordeste",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "expresso-nordeste.webp"
+  },
+  {
+    "id": 104,
+    "operator": "Expresso Queiroz",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "expresso-queiroz.webp"
+  },
+  {
+    "id": 105,
+    "operator": "Expresso São Bento",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "expresso-sao-bento.webp"
+  },
+  {
+    "id": 106,
+    "operator": "Expresso São José",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "expresso-sao-jose.webp"
+  },
+  {
+    "id": 107,
+    "operator": "Expresso São Luiz",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "expresso-sao-luiz.webp"
+  },
+  {
+    "id": 108,
+    "operator": "Expresso São Marcos",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "expresso-sao-marcos.webp"
+  },
+  {
+    "id": 109,
+    "operator": "Expresso São Pedro",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "expresso-sao-pedro.webp"
+  },
+  {
+    "id": 110,
+    "operator": "Expresso SB",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "expresso-sb.webp"
+  },
+  {
+    "id": 111,
+    "operator": "Expresso Setelagoano",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "expresso-setelagoano.webp"
+  },
+  {
+    "id": 112,
+    "operator": "Expresso Transporte e Turismo",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "expresso-transporte-turismo.webp"
+  },
+  {
+    "id": 113,
+    "operator": "Expresso União",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "expresso-uniao.webp"
+  },
+  {
+    "id": 114,
+    "operator": "Expresso Vila Rica",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "expresso-vila-rica.webp"
+  },
+  {
+    "id": 115,
+    "operator": "FabbiTur",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "fabbitur.webp"
+  },
+  {
+    "id": 116,
+    "operator": "Falcão Real",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "falcao-real.webp"
+  },
+  {
+    "id": 117,
+    "operator": "Falone Turismo",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "falone.webp"
+  },
+  {
+    "id": 118,
+    "operator": "Viação Ferraz Trindade",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "ferraz-trindade.webp"
+  },
+  {
+    "id": 119,
+    "operator": "First Class Airport Bus Service",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "first-class.webp"
+  },
+  {
+    "id": 120,
+    "operator": "Flechabus",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "flechabus.webp"
+  },
+  {
+    "id": 121,
+    "operator": "FlixBus",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "flixbus.webp"
+  },
+  {
+    "id": 122,
+    "operator": "Fretcar",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "fretcar.webp"
+  },
+  {
+    "id": 123,
+    "operator": "Gadotti",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "gadotti.webp"
+  },
+  {
+    "id": 124,
+    "operator": "Viação Garcia",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "garcia.webp"
+  },
+  {
+    "id": 125,
+    "operator": "Genesis Bus - Transporte e Turismo",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "genesis-bus.webp"
+  },
+  {
+    "id": 126,
+    "operator": "Gil Turismo",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "gil-turismo.webp"
+  },
+  {
+    "id": 127,
+    "operator": "Gipsyy",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "gipsyy.webp"
+  },
+  {
+    "id": 128,
+    "operator": "Viação Goianésia",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "goianesia.webp"
+  },
+  {
+    "id": 129,
+    "operator": "Viação Goiânia",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "goiania.webp"
+  },
+  {
+    "id": 130,
+    "operator": "Gontijo",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "gontijo.webp"
+  },
+  {
+    "id": 131,
+    "operator": "Graciosa",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "graciosa.webp"
+  },
+  {
+    "id": 132,
+    "operator": "Gran Express",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "gran-express.webp"
+  },
+  {
+    "id": 133,
+    "operator": "Guerino Seiscento",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "guerino-seiscento.webp"
+  },
+  {
+    "id": 134,
+    "operator": "Helios Coletivos e Cargas",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "helios.webp"
+  },
+  {
+    "id": 135,
+    "operator": "Viação Ingá Tur",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "ingatur.webp"
+  },
+  {
+    "id": 136,
+    "operator": "Intersul Transporte",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "intersul.webp"
+  },
+  {
+    "id": 137,
+    "operator": "Itapemirim",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "itapemirim.webp"
+  },
+  {
+    "id": 138,
+    "operator": "Itaqueri",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "itaqueri.webp"
+  },
+  {
+    "id": 139,
+    "operator": "J Araujo",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "j-araujo.webp"
+  },
+  {
+    "id": 140,
+    "operator": "JamJoy",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "jamjoy.webp"
+  },
+  {
+    "id": 141,
+    "operator": "Jarlentur",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "jarlentur.webp"
+  },
+  {
+    "id": 142,
+    "operator": "JBL Turismo",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "jbl.webp"
+  },
+  {
+    "id": 143,
+    "operator": "JJ Tur",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "jj-tur.webp"
+  },
+  {
+    "id": 144,
+    "operator": "Viação José Maria Rodrigues",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "jose-maria-rodrigues.webp"
+  },
+  {
+    "id": 145,
+    "operator": "Viação Juina",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "juina.webp"
+  },
+  {
+    "id": 146,
+    "operator": "Juntos",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "juntos.webp"
+  },
+  {
+    "id": 147,
+    "operator": "Kaissara",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "kaissara.webp"
+  },
+  {
+    "id": 148,
+    "operator": "Empresa Lider Turismo",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "lider-turismo.webp"
+  },
+  {
+    "id": 149,
+    "operator": "Liderança Turismo",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "lideranca.webp"
+  },
+  {
+    "id": 150,
+    "operator": "Linhatur",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "linhatur.webp"
+  },
+  {
+    "id": 151,
+    "operator": "LiraBus",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "lirabus.webp"
+  },
+  {
+    "id": 152,
+    "operator": "Litorânea",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "litoranea.webp"
+  },
+  {
+    "id": 153,
+    "operator": "LogTrans",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "logtrans.webp"
+  },
+  {
+    "id": 154,
+    "operator": "Lopes Sul",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "lopes-sul.webp"
+  },
+  {
+    "id": 155,
+    "operator": "Lopestur",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "lopestur.webp"
+  },
+  {
+    "id": 156,
+    "operator": "Lugar Viagens e Turismo",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "lugar-viagens-e-turismo.webp"
+  },
+  {
+    "id": 157,
+    "operator": "Luxor",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "luxor.webp"
+  },
+  {
+    "id": 158,
+    "operator": "Macaense",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "macaense.webp"
+  },
+  {
+    "id": 159,
+    "operator": "Manoel Rodrigues",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "manoel-rodrigues.webp"
+  },
+  {
+    "id": 160,
+    "operator": "Marlim",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "marlim.webp"
+  },
+  {
+    "id": 161,
+    "operator": "Marte Transportes",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "marte-transportes.webp"
+  },
+  {
+    "id": 162,
+    "operator": "Matriz Transportes",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "matriz-transportes.webp"
+  },
+  {
+    "id": 163,
+    "operator": "Mingoti Tur",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "mingoti.webp"
+  },
+  {
+    "id": 164,
+    "operator": "Viação Montes Belos",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "montes-belos.webp"
+  },
+  {
+    "id": 165,
+    "operator": "Motta",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "motta.webp"
+  },
+  {
+    "id": 166,
+    "operator": "Viação Nacional",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "nacional.webp"
+  },
+  {
+    "id": 167,
+    "operator": "Nacional Expresso",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "nacional-expresso.webp"
+  },
+  {
+    "id": 168,
+    "operator": "Nacional Turismo",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "nacional-turismo.webp"
+  },
+  {
+    "id": 169,
+    "operator": "Viação Navegantes",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "navegantes.webp"
+  },
+  {
+    "id": 170,
+    "operator": "Nevatur",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "nevatur.webp"
+  },
+  {
+    "id": 171,
+    "operator": "Nobre Turismo",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "nobre-turismo.webp"
+  },
+  {
+    "id": 172,
+    "operator": "Viação Nordeste",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "nordeste.webp"
+  },
+  {
+    "id": 173,
+    "operator": "Normandy",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "normandy.webp"
+  },
+  {
+    "id": 174,
+    "operator": "Nossa Senhora Aparecida",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "nossa-senhora-aparecida.webp"
+  },
+  {
+    "id": 175,
+    "operator": "Nova Integração",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "nova-integracao.webp"
+  },
+  {
+    "id": 176,
+    "operator": "Novo Horizonte",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "novo-horizonte.webp"
+  },
+  {
+    "id": 177,
+    "operator": "Nuestra Señora de la Asunción",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "nsa.webp"
+  },
+  {
+    "id": 178,
+    "operator": "Ouro Branco",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "ouro-branco.webp"
+  },
+  {
+    "id": 179,
+    "operator": "Ouro e Prata",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "ouro-e-prata.webp"
+  },
+  {
+    "id": 180,
+    "operator": "Viação Ouro Verde",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "ouro-verde.webp"
+  },
+  {
+    "id": 181,
+    "operator": "Paraibuna Transportes",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "paraibuna.webp"
+  },
+  {
+    "id": 182,
+    "operator": "Paraúna",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "parauna.webp"
+  },
+  {
+    "id": 183,
+    "operator": "Pássaro Verde",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "passaro-verde.webp"
+  },
+  {
+    "id": 184,
+    "operator": "Penha",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "penha.webp"
+  },
+  {
+    "id": 185,
+    "operator": "Pernambucana",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "pernambucana.webp"
+  },
+  {
+    "id": 186,
+    "operator": "Viação Piracema",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "piracema.webp"
+  },
+  {
+    "id": 187,
+    "operator": "Viação Piracicabana",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "piracicabana.webp"
+  },
+  {
+    "id": 188,
+    "operator": "Planalto Passageiros",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "planalto.webp"
+  },
+  {
+    "id": 189,
+    "operator": "Viação Planeta",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "planeta.webp"
+  },
+  {
+    "id": 190,
+    "operator": "Viação Platina",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "platina.webp"
+  },
+  {
+    "id": 191,
+    "operator": "Plenna Transportes",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "plenna.webp"
+  },
+  {
+    "id": 192,
+    "operator": "Pluma",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "pluma.webp"
+  },
+  {
+    "id": 193,
+    "operator": "Porto Rico",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "porto-rico.webp"
+  },
+  {
+    "id": 194,
+    "operator": "Presidente",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "presidente.webp"
+  },
+  {
+    "id": 195,
+    "operator": "Viação Pretti",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "pretti.webp"
+  },
+  {
+    "id": 196,
+    "operator": "Primar Turismo",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "primar-turismo.webp"
+  },
+  {
+    "id": 197,
+    "operator": "Primeira Classe",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "primeira-classe.webp"
+  },
+  {
+    "id": 198,
+    "operator": "Princesa do Inhamuns",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "princesa-do-inhamuns.webp"
+  },
+  {
+    "id": 199,
+    "operator": "Princesa do Ivaí",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "princesa-do-ivai.webp"
+  },
+  {
+    "id": 200,
+    "operator": "Princesa do Norte",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "princesa-do-norte.webp"
+  },
+  {
+    "id": 201,
+    "operator": "Princesa do Sul",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "princesa-do-sul.webp"
+  },
+  {
+    "id": 202,
+    "operator": "Princesa dos Campos",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "princesa-dos-campos.webp"
+  },
+  {
+    "id": 203,
+    "operator": "Princesa Morena",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "princesa-morena.webp"
+  },
+  {
+    "id": 204,
+    "operator": "Rápido Brasil",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "rapido-brasil.webp"
+  },
+  {
+    "id": 205,
+    "operator": "Rápido Campinas",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "rapido-campinas.webp"
+  },
+  {
+    "id": 206,
+    "operator": "Rápido D'Oeste",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "rapido-d-oeste.webp"
+  },
+  {
+    "id": 207,
+    "operator": "Rápido Federal",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "rapido-federal.webp"
+  },
+  {
+    "id": 208,
+    "operator": "Rápido Fênix",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "rapido-fenix.webp"
+  },
+  {
+    "id": 209,
+    "operator": "Rápido Marajó",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "rapido-marajo.webp"
+  },
+  {
+    "id": 210,
+    "operator": "Rápido Ribeirão Preto",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "rapido-ribeirao-preto.webp"
+  },
+  {
+    "id": 211,
+    "operator": "Rápido Sumaré",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "rapido-sumare.webp"
+  },
+  {
+    "id": 212,
+    "operator": "RD Transportes",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "rd-transportes.webp"
+  },
+  {
+    "id": 213,
+    "operator": "Real Transporte e Turismo",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "real.webp"
+  },
+  {
+    "id": 214,
+    "operator": "Real Alagoas",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "real-alagoas.webp"
+  },
+  {
+    "id": 215,
+    "operator": "Real Bus",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "real-bus.webp"
+  },
+  {
+    "id": 216,
+    "operator": "Real Expresso",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "real-expresso.webp"
+  },
+  {
+    "id": 217,
+    "operator": "Real Maia",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "real-maia.webp"
+  },
+  {
+    "id": 218,
+    "operator": "Real Maia Goiânia",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "real-maia-goiania.webp"
+  },
+  {
+    "id": 219,
+    "operator": "Real Sul Turismo",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "real-sul.webp"
+  },
+  {
+    "id": 220,
+    "operator": "Reunidas",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "reunidas.webp"
+  },
+  {
+    "id": 221,
+    "operator": "Reunidas Paulista",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "reunidas-paulista.webp"
+  },
+  {
+    "id": 222,
+    "operator": "Ricco Transportes",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "ricco.webp"
+  },
+  {
+    "id": 223,
+    "operator": "RIL",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "ril.webp"
+  },
+  {
+    "id": 224,
+    "operator": "Viação Rio Doce",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "rio-doce.webp"
+  },
+  {
+    "id": 225,
+    "operator": "Viação Rio Grande",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "rio-grande.webp"
+  },
+  {
+    "id": 226,
+    "operator": "Rio Novo Transportes",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "rio-novo.webp"
+  },
+  {
+    "id": 227,
+    "operator": "Rio Tinto",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "rio-tinto.webp"
+  },
+  {
+    "id": 228,
+    "operator": "RodeRotas",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "roderotas.webp"
+  },
+  {
+    "id": 229,
+    "operator": "Rodoviário Oceano",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "rodoviario-oceano.webp"
+  },
+  {
+    "id": 230,
+    "operator": "Rota Transportes",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "rota.webp"
+  },
+  {
+    "id": 231,
+    "operator": "Rotas do Triângulo",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "rotas-do-triangulo.webp"
+  },
+  {
+    "id": 232,
+    "operator": "Salutaris",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "salutaris.webp"
+  },
+  {
+    "id": 233,
+    "operator": "Viação Sampaio",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "sampaio.webp"
+  },
+  {
+    "id": 234,
+    "operator": "Viação Santa Cruz",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "santa-cruz.webp"
+  },
+  {
+    "id": 235,
+    "operator": "Viação Santa Izabel",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "santa-isabel.webp"
+  },
+  {
+    "id": 236,
+    "operator": "Viação Santa Maria",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "santa-maria.webp"
+  },
+  {
+    "id": 237,
+    "operator": "Santo Anjo",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "santo-anjo.webp"
+  },
+  {
+    "id": 238,
+    "operator": "São Benedito",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "sao-benedito.webp"
+  },
+  {
+    "id": 239,
+    "operator": "Viação São Bento",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "sao-bento.webp"
+  },
+  {
+    "id": 240,
+    "operator": "Viação São Cristóvão",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "sao-cristovao.webp"
+  },
+  {
+    "id": 241,
+    "operator": "Viação São Gabriel",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "sao-gabriel.webp"
+  },
+  {
+    "id": 242,
+    "operator": "São Geraldo",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "sao-geraldo.webp"
+  },
+  {
+    "id": 243,
+    "operator": "São João Transportes Razzera",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "sao-joao-transportes.webp"
+  },
+  {
+    "id": 244,
+    "operator": "Rodoviário e Turismo São José",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "sao-jose.webp"
+  },
+  {
+    "id": 245,
+    "operator": "Viação São Luiz",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "sao-luiz.webp"
+  },
+  {
+    "id": 246,
+    "operator": "Viação São Paulo São Pedro",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "sao-paulo-sao-pedro.webp"
+  },
+  {
+    "id": 247,
+    "operator": "Saritur",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "saritur.webp"
+  },
+  {
+    "id": 248,
+    "operator": "Satélite Azul",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "satelite-azul.webp"
+  },
+  {
+    "id": 249,
+    "operator": "Satélite Norte",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "satelite-norte.webp"
+  },
+  {
+    "id": 250,
+    "operator": "Serra Azul",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "serra-azul.webp"
+  },
+  {
+    "id": 251,
+    "operator": "Serro",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "serro.webp"
+  },
+  {
+    "id": 252,
+    "operator": "Viação Sertaneja",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "sertaneja.webp"
+  },
+  {
+    "id": 253,
+    "operator": "Soares",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "soares.webp"
+  },
+  {
+    "id": 254,
+    "operator": "Stilo",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "stilo.webp"
+  },
+  {
+    "id": 255,
+    "operator": "Viação Suassui",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "suassui.webp"
+  },
+  {
+    "id": 256,
+    "operator": "Sudoeste Transportes",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "sudoeste.webp"
+  },
+  {
+    "id": 257,
+    "operator": "Sul Minas",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "sul-minas.webp"
+  },
+  {
+    "id": 258,
+    "operator": "Sulba",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "sulba.webp"
+  },
+  {
+    "id": 259,
+    "operator": "Tapajós Expresso",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "tapajos-expresso.webp"
+  },
+  {
+    "id": 260,
+    "operator": "Tavares",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "tavares.webp"
+  },
+  {
+    "id": 261,
+    "operator": "Viação Teixeira Turismo",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "teixeira-turismo.webp"
+  },
+  {
+    "id": 262,
+    "operator": "Teresópolis",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "teresopolis.webp"
+  },
+  {
+    "id": 263,
+    "operator": "Transportes Tiquin",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "tiquin.webp"
+  },
+  {
+    "id": 264,
+    "operator": "Tocantins Transporte",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "tocantins.webp"
+  },
+  {
+    "id": 265,
+    "operator": "Total",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "total.webp"
+  },
+  {
+    "id": 266,
+    "operator": "Trans Acreana Transportes",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "transacreana.webp"
+  },
+  {
+    "id": 267,
+    "operator": "Trans Águia",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "transaguia.webp"
+  },
+  {
+    "id": 268,
+    "operator": "Transbrasiliana",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "transbrasiliana.webp"
+  },
+  {
+    "id": 269,
+    "operator": "Viação Transbraz",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "transbraz.webp"
+  },
+  {
+    "id": 270,
+    "operator": "Transfada",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "transfada.webp"
+  },
+  {
+    "id": 271,
+    "operator": "Translitoral",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "translitoral.webp"
+  },
+  {
+    "id": 272,
+    "operator": "Transnorte",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "transnorte.webp"
+  },
+  {
+    "id": 273,
+    "operator": "Transoares",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "transoares.webp"
+  },
+  {
+    "id": 274,
+    "operator": "Transpen",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "transpen.webp"
+  },
+  {
+    "id": 275,
+    "operator": "Transpiaui",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "transpiaui.webp"
+  },
+  {
+    "id": 276,
+    "operator": "Transur",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "transur.webp"
+  },
+  {
+    "id": 277,
+    "operator": "TTL",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "ttl.webp"
+  },
+  {
+    "id": 278,
+    "operator": "TUT Transportes",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "tut.webp"
+  },
+  {
+    "id": 279,
+    "operator": "Viação Uberlândia",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "uberlandia.webp"
+  },
+  {
+    "id": 280,
+    "operator": "Viação Ultra",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "ultra.webp"
+  },
+  {
+    "id": 281,
+    "operator": "Viação Umuarama",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "umuarama.webp"
+  },
+  {
+    "id": 282,
+    "operator": "UneSul",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "unesul.webp"
+  },
+  {
+    "id": 283,
+    "operator": "União Santa Cruz",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "uniao-santa-cruz.webp"
+  },
+  {
+    "id": 284,
+    "operator": "Única . Fácil",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "unica-facil.webp"
+  },
+  {
+    "id": 285,
+    "operator": "Unir",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "unir.webp"
+  },
+  {
+    "id": 286,
+    "operator": "Viação UTIL",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "util.webp"
+  },
+  {
+    "id": 287,
+    "operator": "Vale do Tietê",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "vale-do-tiete.webp"
+  },
+  {
+    "id": 288,
+    "operator": "Valle Sul Serviços",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "valle-sul.webp"
+  },
+  {
+    "id": 289,
+    "operator": "Valtur Turismo",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "valtur.webp"
+  },
+  {
+    "id": 290,
+    "operator": "VB Transportes",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "vb-transportes.webp"
+  },
+  {
+    "id": 291,
+    "operator": "Verde Transportes",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "verde.webp"
+  },
+  {
+    "id": 292,
+    "operator": "Via Bariloche",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "via-bariloche.webp"
+  },
+  {
+    "id": 293,
+    "operator": "Via Goiás Turismo",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "via-goias-turismo.webp"
+  },
+  {
+    "id": 294,
+    "operator": "Viação Progresso",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "viacao-progresso.webp"
+  },
+  {
+    "id": 295,
+    "operator": "Viação Sandra",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "viacao-sandra.webp"
+  },
+  {
+    "id": 296,
+    "operator": "ViaSol",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "viasol.webp"
+  },
+  {
+    "id": 297,
+    "operator": "Viasul",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "viasul.webp"
+  },
+  {
+    "id": 298,
+    "operator": "ViaTur",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "viatur.webp"
+  },
+  {
+    "id": 299,
+    "operator": "VLI Logística",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "vli-logistica.webp"
+  },
+  {
+    "id": 300,
+    "operator": "Waybus",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "waybus.webp"
+  },
+  {
+    "id": 301,
+    "operator": "Wemobi",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "wemobi.webp"
+  },
+  {
+    "id": 302,
+    "operator": "Viação Xavante",
+    "country": "Brazil",
+    "state": "",
+    "logo_file": "xavante.webp"
+  }
+]
